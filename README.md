@@ -14,3 +14,14 @@ Day la du an thuc hanh quan ly phien ban source code.
 - Git
 - GitHub
 
+## Thong tin du an
+
+Day la bai thuc hanh Lab 6 ve Git va GitHub.
+
+## Noi dung da hoc
+
+- Git Repository
+- Commit
+- Branch
+- Remote
+- Push va Pull
