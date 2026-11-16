@@ -9,3 +9,8 @@ Day la du an thuc hanh quan ly phien ban source code.
 - Thuc hanh Commit
 - Thuc hanh Branch va Merge
 
+## Cong nghe su dung
+- Ubuntu
+- Git
+- GitHub
+
